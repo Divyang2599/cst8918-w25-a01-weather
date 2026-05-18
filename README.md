@@ -21,7 +21,7 @@ The weather app was cloned, dependencies installed, and run locally using the Op
 - Local dev server running at: `http://localhost:3000`
 
 ### App Running Locally (localhost:3000)
-![App running at localhost:3000] (<img width="1917" height="1025" alt="localhost 3000" src="https://github.com/user-attachments/assets/9c135e92-50a9-45af-ba0f-f74dd24057ff" />)
+![App running at localhost:3000] <img width="1917" height="1025" alt="localhost 3000" src="https://github.com/user-attachments/assets/9c135e92-50a9-45af-ba0f-f74dd24057ff" />
 
 
 ---
@@ -34,7 +34,8 @@ The app was containerized using the provided Dockerfile and tested locally befor
 - Container tested at: `http://localhost:8080`
 
 ### App Running in Docker Container (localhost:8080)
-![App running in Docker container](screenshots/localhost_8080.png)
+![App running in Docker container] <img width="1917" height="967" alt="localhost 8080" src="https://github.com/user-attachments/assets/1b21e043-023d-4d7f-8b6e-77f50d20eaf0" />
+
 
 ---
 
@@ -58,10 +59,12 @@ The containerized app was deployed to a local Kubernetes cluster running on Dock
 - `k8s/a01_service.yaml` - LoadBalancer service on port 80
 
 ### App Running via Kubernetes (localhost:80)
-![App running via Kubernetes](screenshots/localhost_running.png)
+![App running via Kubernetes] <img width="1917" height="1020" alt="localhost running" src="https://github.com/user-attachments/assets/482f3e95-46ab-4bea-8301-ee964f6e711a" />
+
 
 ### Kubernetes Cluster Status
-![kubectl get namespaces, services, pods](screenshots/kubectl_output.png)
+![kubectl get namespaces, services, pods] <img width="1512" height="805" alt="image" src="https://github.com/user-attachments/assets/e6d856fa-9e8f-4893-a37c-84f5963839ea" />
+
 
 ---
 
